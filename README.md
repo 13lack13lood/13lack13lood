@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi, I'm Harry Zhu👋 </h1>
 
 <!--
 **13lack13lood/13lack13lood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 **I’m currently working on:**
+  - _[StockNewsSentiment](https://github.com/13lack13lood/StockNewsSentiment) , a sentimental analysis program that analyzes stock news_
+
+🌱 **I'm currently learning:**
+  - _Machine Learning and training LSTMs for sentimental analysis_
+  - _Flask_
+  - _NextJS_
+
+<a href="https://github.com/hamgod420/hamgod420">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13lack13lood&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+</a>
+<a href="https://github.com/hamgod420/hamgod420">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=13lack13lood&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>
