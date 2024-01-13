@@ -23,6 +23,8 @@ I'm a mathematics student at the University of Waterloo
 🌱 **I'm currently learning:**
   - _Machine Learning and training LSTMs for sentimental analysis_
 
+Check out my personal website: [harryzhu.ca](https://www.harryzhu.ca/)
+
 <br/>
 <p align="center">
   <a href="https://github.com/13lack13lood/13lack13lood">
@@ -33,4 +35,4 @@ I'm a mathematics student at the University of Waterloo
 </a>
 </p>
 
-Check out my personal website: [harryzhu.ca](https://www.harryzhu.ca/)
+
