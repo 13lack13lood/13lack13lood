@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a mathematics student at the University of Waterloo
+
 🔭 **I’m currently working on:**
   - _[StockNewsSentiment](https://github.com/13lack13lood/StockNewsSentiment) , a sentimental analysis program that analyzes stock news_
 
 🌱 **I'm currently learning:**
   - _Machine Learning and training LSTMs for sentimental analysis_
-  - _Flask_
-  - _NextJS_
+
 <br/>
 <p align="center">
   <a href="https://github.com/13lack13lood/13lack13lood">
@@ -32,8 +33,4 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<br/>
-
-Please check out my personal website. Feel free to leave any comments or feedback!
-[harryzhu.ca](https://www.harryzhu.ca/)
-
+Check out my personal website: [harryzhu.ca](https://www.harryzhu.ca/)
