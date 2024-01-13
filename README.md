@@ -32,3 +32,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<br/>
+
+Please check out my personal website. Feel free to leave any comments or feedback!
+[harryzhu.ca](https://www.harryzhu.ca/)
+
