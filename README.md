@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 
 I'm a mathematics student at the University of Waterloo
 
+<br/>
+
 🔭 **I’m currently working on:**
   - _[StockNewsSentiment](https://github.com/13lack13lood/StockNewsSentiment) , a sentimental analysis program that analyzes stock news_
 
 🌱 **I'm currently learning:**
   - _Machine Learning and training LSTMs for sentimental analysis_
+
+<br/>
 
 Check out my personal website: [harryzhu.ca](https://www.harryzhu.ca/)
 
