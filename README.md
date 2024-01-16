@@ -22,8 +22,8 @@ I'm a mathematics student at the University of Waterloo
   - _[StockNewsSentiment](https://github.com/13lack13lood/StockNewsSentiment) , a sentimental analysis program that analyzes stock news_
 
 ### 🌱 **I'm currently learning:**
-  - _Machine Learning and training LSTMs for sentimental analysis_
-  - PyTorch
+  - _Training deep learning models for sentimental analysis_
+  - _Fine tuning GRU and LSTM models to optimize accuracy_
 
 ### 🛠️ **My Toolbox**
 
