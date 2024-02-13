@@ -19,11 +19,11 @@ I'm a mathematics student at the University of Waterloo
 
 
 ### 🔭 **I’m currently working on:**
-  - _[StockNewsSentiment](https://github.com/13lack13lood/StockNewsSentiment) , a sentimental analysis program that analyzes stock news_
+  - _[PortfolioOptimizer](https://github.com/13lack13lood/PortfolioOptimizer) , a program that optimizes your financial portfolio using a genetic algorithm_
 
 ### 🌱 **I'm currently learning:**
-  - _Training deep learning models for sentimental analysis_
-  - _Fine tuning GRU and LSTM models to optimize accuracy_
+  - _Developing genetic algorithms for financial optimization_
+  - _Creating Spring Boot applications in Java_
 
 ### 🛠️ **My Toolbox**
 
