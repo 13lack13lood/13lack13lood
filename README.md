@@ -66,7 +66,7 @@ I'm a mathematics student at the University of Waterloo
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13lack13lood&layout=compact&hide_progress=false&theme=tokyonight&langs_count=6" />
   </a>
   <a href="https://github.com/13lack13lood/13lack13lood">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=13lack13lood&show_icons=true&line_height=27&count_private=true&hide=issues,prs&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=13lack13lood&show_icons=true&line_height=27&rank_icon=percentile&count_private=true&hide=issues,prs&theme=tokyonight"/>
   </a>
 </p>
 
