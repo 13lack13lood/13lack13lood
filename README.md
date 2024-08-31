@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a mathematics student at the University of Waterloo
+I'm a Data Science student at the University of Waterloo
 
 
 ### 🔭 **I’m currently working on:**
