@@ -1,4 +1,4 @@
-# Hi, I'm Harry Zhu👋
+## Hi, I'm Harry Zhu👋
 
 <!--
 **13lack13lood/13lack13lood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
