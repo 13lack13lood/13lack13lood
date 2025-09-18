@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Harry Zhu👋 </h1>
+# Hi, I'm Harry Zhu👋
 
 <!--
 **13lack13lood/13lack13lood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 I'm a Data Science student at the University of Waterloo.
 
-### 🌱 **I'm currently learning:**
-  - _Distributed systems_
+🌱 **I'm currently learning:** _Distributed systems_
 
-### 🔭 **I’m currently working on**
-  - _Building some tools to sell options_
+🔭 **I’m currently working on:**  _Building some tools to sell options_
 
 ### 🛠️ **My Toolbox**
 
@@ -46,16 +44,5 @@ I'm a Data Science student at the University of Waterloo.
 
 
 #### ⚡**Check out my personal website at [harryzhu.ca](https://www.harryzhu.ca/)**
-
-</br>
-
-<p align="center">
-  <a href="https://github.com/13lack13lood/13lack13lood">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13lack13lood&layout=compact&hide_progress=false&theme=tokyonight&langs_count=6" />
-  </a>
-  <a href="https://github.com/13lack13lood/13lack13lood">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=13lack13lood&show_icons=true&line_height=27&rank_icon=percentile&count_private=true&hide=issues,prs&theme=tokyonight"/>
-  </a>
-</p>
 
 
