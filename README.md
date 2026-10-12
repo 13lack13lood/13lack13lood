@@ -19,7 +19,7 @@ I'm a Data Science student at the University of Waterloo.
 
 🌱 **I'm currently learning:** _Distributed systems and concurrency_
 
-🔭 **I’m currently working on:**  _Building some tools to sell options_
+🔭 **I’m currently working on:**  _Building fast vector search in Rust_
 
 ### 🛠️ **What I Use**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
